@@ -1,6 +1,7 @@
 site_name: Сайт для Саши И Димы
 theme:
   name: material
+  language: ru
 nav:
   - Начало: index.md
   - Разное:
