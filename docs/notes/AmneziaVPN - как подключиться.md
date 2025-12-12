@@ -12,6 +12,10 @@
 Установи **Amnezia VPN** из Google Play:  
 [ :material-android: Скачать на Android ](https://play.google.com/store/apps/details?id=org.amnezia.vpn){ .md-button .md-button--primary target="_blank" }
 
+!!! note "Если приложение заблокировано"
+    То тогда можно скачать тут APK файл сразу, но лучше из Google Play установить.
+    [:material-download: APK Файл](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.10.0/AmneziaVPN_4.8.10.0_android8+_arm64-v8a.apk)
+
 Открой приложение после установки.
 
 ---
