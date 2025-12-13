@@ -2,10 +2,25 @@ site_name: Сайт для Саши И Димы
 theme:
   name: material
   language: ru
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Светлая тема
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Тёмная тема
 nav:
   - Начало: index.md
   - Разное:
     - Настройка VPN: notes/AmneziaVPN - как подключиться.md
+  - Учимся программировать:
+    - Часть 1:
+      - Настройка и установка:  course/part1/Урок 1 - Устанавливаем программы.md
 markdown_extensions:
   - admonition
   - pymdownx.details
