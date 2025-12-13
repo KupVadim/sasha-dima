@@ -39,5 +39,6 @@ markdown_extensions:
   - pymdownx.snippets
   - md_in_html
   - pymdownx.blocks.caption
+  - sane_lists
 plugins:
   - glightbox
