@@ -6,6 +6,9 @@
 !!! danger "!!!ОЧЕНЬ ВАЖНО!!!"
     **Не передавай никому QR код или файл с настройками**
 
+!!! warning "VPN не будет работать бесконечно"
+    Рано или поздно он будет заблокирован. Как только это проихойдет, сразу дайте мне знать! Чем быстрее я узнаю, тем быстрее смогу сделать новый.
+
 ## Шаг 1. Установи приложение
 Установи **Amnezia VPN** из Google Play:  
 [ :material-android: Скачать на Android ](https://play.google.com/store/apps/details?id=org.amnezia.vpn){ .md-button .md-button--primary target="_blank" }
