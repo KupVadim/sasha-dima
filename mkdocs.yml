@@ -20,9 +20,7 @@ nav:
   - Начало: index.md
   - Разное:
     - Настройка VPN: notes/AmneziaVPN - как подключиться.md
-  - Учимся программировать:
-    - Часть 1:
-      - Настройка и установка:  course/part1/Урок 1 - Устанавливаем программы.md
+  - Учимся программировать: course/index.md
 markdown_extensions:
   - admonition
   - pymdownx.details
